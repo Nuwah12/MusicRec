@@ -1,4 +1,4 @@
-class Fetcher():
+class SpotifySearch():
     def __init__(self):
         pass
     # Get songs from playlist URI and user name
